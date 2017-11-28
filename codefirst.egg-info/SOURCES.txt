@@ -1,0 +1,8 @@
+MANIFEST.in
+codefirst/__init__.py
+codefirst/codefirst.py
+codefirst.egg-info/PKG-INFO
+codefirst.egg-info/SOURCES.txt
+codefirst.egg-info/dependency_links.txt
+codefirst.egg-info/requires.txt
+codefirst.egg-info/top_level.txt
