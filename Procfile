@@ -1,1 +1,1 @@
-eb: python codefirst.py
+web: python codefirst.py
