@@ -1,2 +1,9 @@
-# flookie
-A useless platform with some functionalities that you definitely don't need.
+To install as package:
+pip install --editable .
+
+
+To run:
+export FLASK_APP=codefirst
+export FLASK_DEBUG=true
+flask run
+
